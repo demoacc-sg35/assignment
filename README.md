@@ -1,6 +1,6 @@
 #🏦 City Bank – C++ Banking System
 
-About the Project
+##About the Project
 
 City Bank is a simple command-line banking system developed using C++. The project was created as part of the Introduction to Programming (NQF Level 4) assignment at Gauteng City College.
 
@@ -18,7 +18,7 @@ The banking system includes the following features:
 - Input Validation: Prevents invalid transactions and incorrect menu selections.
 - Multiple Users: Supports three registered bank users.
 
-Technologies Used
+##Technologies Used
 
 - C++
 - iostream library
@@ -29,7 +29,7 @@ Technologies Used
 - void functions
 - Arrays
 
-Test Account Details
+##Test Account Details
 
 The program comes with three sample accounts for testing purposes.
 
